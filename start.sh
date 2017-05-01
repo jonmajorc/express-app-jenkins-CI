@@ -1,1 +1,1 @@
-pm2 app.js
+pm2 start app.js
